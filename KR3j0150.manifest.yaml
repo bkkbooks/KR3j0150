@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR3j0150/v1
+canonical_location: https://kanripo.org/bkk/KR3j0150/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 胡文穆雜著
+  date: '2015-08-24 23:25:12.753701'
+  source:
+    repository: kanripo
+    path: KR3j0150
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0150_000.yaml, hash: 'sha256:1bb14c4acc17c45c559ca44af2ac3f4961156b798cf96fb2620e2f4cf77b0a12'}
+  - {seq: 1, filename: KR3j0150_001.yaml, hash: 'sha256:897e397e45709a8dc696488fd61257634495857a3b273b557a7ee6e71413ae64'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0150_000.markers.yaml, hash: 'sha256:1e6ac63a633b57a70378f43ff6a48cd75679d2eadbdebe400ba3e6abeb04ef21'}
+  - {seq: 1, role: markers, filename: assets/KR3j0150_001.markers.yaml, hash: 'sha256:7de9c611bf0a63469e9b6920deb4b0dce320a12647e4fe86428abb9736635285'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0150_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 481
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3j0150_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 13947
+  label: 胡文穆雜著
+  type: section
+  level: 1
+hash: sha256:0ef3ed4888120d1fc1833849da02c58d4f3d6f1177b87e30562d35e30a20d71b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
