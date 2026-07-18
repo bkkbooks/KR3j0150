@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR3j0150_000.yaml, hash: 'sha256:4e688a97eb7cf463ffbdc6aa9f8d17f89296235bbaaa59ad7d89e0d423e892a8'}
   - {seq: 1, filename: KR3j0150_001.yaml, hash: 'sha256:4096969f64135501b87f9dce9bba97ccab39077d287b27ffbe6dbbe15c2d6505'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0150_000.markers.yaml, hash: 'sha256:9785d98193d5f7533bd0ceddb74f4da9becbe9dd04461bf6c801e1fa22be77c2'}
+  - {seq: 0, role: markers, filename: assets/KR3j0150_000.markers.yaml, hash: 'sha256:5ef02bdff36501ac459b048a842dfe9fc6d7c9ad3f4f1881b768016b36f9b173'}
   - {seq: 1, role: markers, filename: assets/KR3j0150_001.markers.yaml, hash: 'sha256:03f028140eef58bfb5eeba5192faef1b0c22e159408412ea4a749abc580a1c23'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 胡文穆雜著
   type: section
   level: 1
-hash: sha256:7f592640abcdb71f0df3f3ab615f3d436a9d126493cebc7a88bb6702be8a0265
+hash: sha256:2432138324845fb9d4643a3278693c4c96b1af61ffa1b94d726f12cf8665e6b2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
